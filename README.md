@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Discord Nitro Generator
 Generates Discord Nitro codes without any interference for the end-user. Free Nitro!
 

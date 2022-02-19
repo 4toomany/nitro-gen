@@ -1,7 +1,7 @@
 # Discord Nitro Generator
 Generates Discord Nitro codes without any interference for the end-user. Free Nitro!
 
-# How it Works
+# How it Works 🔨
 The algorithm for generating the code links comes from /ZexZee/Python-steamkey-generator. I cloned the code and redesigned the code in a way that it can work in server infastructures without stopping at all. All codes are generated and checked at the same time without the need to stop the program to do each one seperately. Without stopping the program it checks the code and discards of invalid ones (who wants invalid codes clogging up your storage?) and saves the good ones to a file named `goodies.txt`. Check this file from time to time for new codes!
 
 # Issues 💣
